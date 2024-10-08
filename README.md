@@ -1,10 +1,10 @@
 # Hi, I'm Danendra Dipa👋
 
-#### Passionate about:
-#### 📊 Data Science & Machine Learning
-#### 💻 Web Development
-I enjoy working on data-driven projects and creating user-friendly web applications.
-Feel free to explore my repositories or reach out if you'd like to collaborate!
+### Passionate about:
+### 📊 Data Science & Machine Learning
+### 💻 Web Development
+#### I enjoy working on data-driven projects and creating user-friendly web applications.
+#### Feel free to explore my repositories or reach out if you'd like to collaborate!
 
 <br/>
 
