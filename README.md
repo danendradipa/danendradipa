@@ -1,14 +1,19 @@
 # Hi, I'm Danendra Dipa👋
 
-### Passionate about:
-### 📊 Data Science & Machine Learning
-### 💻 Web Development
-#### I enjoy working on data-driven projects and creating user-friendly web applications.
-#### Feel free to explore my repositories or reach out if you'd like to collaborate!
+#### Passionate about:
+#### 📊 Data Science & Machine Learning
+#### 💻 Web Development
+<p>I enjoy working on data-driven projects and creating user-friendly web applications.</p>
+<p>Feel free to explore my repositories or reach out if you'd like to collaborate!</p>
 
 <br/>
 
-# 🧑‍💻 Tech Stack
+## 🌐 Connect With Me:
+<a href="https://www.linkedin.com/in/danendradipa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<br/>
+
+## 🧑‍💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,8 +27,7 @@
 
 <br/>
 
-# 📶GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=danendradipa&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danendradipa&theme=radical&layout=compact)
+## 📶GitHub Stats:
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=danendradipa&theme=radical&hide_border=false&include_all_commits=true"> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danendradipa&theme=radical&layout=compact"> 
