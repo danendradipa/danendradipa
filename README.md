@@ -29,5 +29,5 @@
 
 ## 📶GitHub Stats:
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=danendradipa&theme=radical&include_all_commits=true"> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=danendradipa&include_all_commits=true&theme=radical"> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danendradipa&theme=radical&layout=compact"> 
