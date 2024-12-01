@@ -30,4 +30,4 @@
 ## 📶GitHub Stats:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danendradipa&theme=dark&hide_border=false" /> <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danendradipa&theme=radical&layout=compact"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danendradipa&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact"><br/>
